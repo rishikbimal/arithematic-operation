@@ -14,8 +14,8 @@ while operation != "5":
     operation = input("Enter your option: ")
     
     if operation != "5":
-        first_number=float(input("First Number: "))
-        second_number=float(input("Second Number: "))
+        first_number=float(input("First Number:  "))
+        second_number=float(input("Second Number:  "))
         
         if operation == "1":
             sum = first_number + second_number
