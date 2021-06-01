@@ -34,4 +34,4 @@ while operation != "5":
                 divi = first_number / second_number
                 print (str(first_number) + " / " + str(second_number) + " = " + str(divi))
         else:
-            print ("Invalid operation ")
+            print ("Invalid operation. Please select a valid operation.")
