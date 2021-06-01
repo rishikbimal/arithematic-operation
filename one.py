@@ -35,3 +35,4 @@ while operation != "5":
                 print (str(first_number) + " / " + str(second_number) + " = " + str(divi))
         else:
             print ("Invalid operation ")
+            print("Another message")
